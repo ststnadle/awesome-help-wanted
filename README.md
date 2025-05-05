@@ -27,7 +27,7 @@ This list serves two purposes:
 
 ## Learning code
 * [Exercism.io](http://exercism.io/) 
-
+* [The Odin Project](https://www.theodinproject.com/)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
